@@ -2,3 +2,4 @@ name,value
 site_code,luma_euro
 store_code,luma_es
 store_view_code,luma_es_es
+restrict_products_from_views,N
